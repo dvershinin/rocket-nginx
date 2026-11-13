@@ -95,7 +95,7 @@ That's it.
 
 ### WordPress-managed configuration
 
-Server operators who prefer the configuration to follow the active WP Rocket settings can use [WP Rocket Nginx](https://github.com/dvershinin/wp-rocket-nginx), an unofficial WordPress plugin derived from Rocket-Nginx 3.1.2.
+Server operators who prefer the configuration to follow the active WP Rocket settings can use [GetPageSpeed Cache Configuration](https://wordpress.org/plugins/getpagespeed-cache-configuration/), an unofficial WordPress plugin derived from Rocket-Nginx 3.1.2.
 
 The plugin generates the Nginx include atomically when relevant settings change. Nginx validation and reload remain explicit server operations. The project retains Rocket-Nginx attribution and its MIT license notice.
 
